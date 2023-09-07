@@ -1,0 +1,7 @@
+.header_component {
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  gap: 1rem;
+  background-color: red;
+}
