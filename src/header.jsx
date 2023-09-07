@@ -1,7 +1,7 @@
 import React from "react";
 
 function Header() {
-  return <div>H</div>;
+  return <div>Header</div>;
 }
 
-export default H;
+export default Header;
